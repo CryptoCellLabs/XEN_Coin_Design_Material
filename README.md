@@ -8,6 +8,7 @@ Now we open the entire XEN Coin design source file to the community, anyone can 
 The source file is 3D in spline format
 https://spline.design/
 
+Discord https://discord.gg/c2labs
 
 -----
 CryptoCell Labs专门为XEN社区设计了XEN Coin。
@@ -15,3 +16,6 @@ CryptoCell Labs专门为XEN社区设计了XEN Coin。
 
 源文件是spline格式的3D
 https://spline.design/ 
+
+XEN讨论交流
+https://discord.gg/c2labs
